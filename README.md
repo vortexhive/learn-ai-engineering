@@ -94,6 +94,10 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Windsurf](https://windsurf.com/editor)
 - [GitHub Copilot](https://github.com/features/copilot)
 
+### Agentic Coding Tools
+- [Claude Code](https://code.claude.com/docs/en/overview)
+- [Codex](https://openai.com/codex/)
+
 ## Prompt Engineering
 - [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
 - [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
@@ -144,7 +148,6 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
 - [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 - [Build a Multi-Agent System (from Scratch)](https://www.manning.com/books/build-a-multi-agent-system-from-scratch)
-- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
 - [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch)
 - [Build an LLM Application (from Scratch)](https://www.manning.com/books/build-llm-applications-from-scratch)
